@@ -1,0 +1,46 @@
+{
+    "user": {
+        "name": "Paul Davidson",
+        "age": 10,
+        "grade": 5,
+        "gender": "male"
+    },
+    "subjects": [
+        {
+            "id": 1,
+            "name": "English Language",
+            "color": "success",
+            "description": "English language plays an essential role in our lives as it helps in communication. It is the main language for studying any subject all over the world. English is important for students as it broadens their minds, develops emotional skills, improve the quality of life by providing job opportunities."
+        },
+        {
+            "id": 2,
+            "name": "History",
+            "color": "info",
+            "description": "Your first birthday. Your first day of school. The time you learned to ride a bike. These are all moments in the history of your life. The second that something is in the past, it becomes part of history. The past is made up of all the time and events that have already gone by. Think of all of the things that have happened in the past as pages in a book. These pages are grouped into chapters based on when and where they took place. All of these chapters are put together into a book of history. Sometimes, we study history's earlier chapters, like when we study cavemen or dinosaurs. Sometimes, we study more recent chapters of history, like the attacks of September 11th, 2001, or the election of President Barack Obama, the first Black President of the United States. Today, we are continuing to write the pages that will go into the newest chapters in the book of history."
+        },
+        {
+            "id": 3,
+            "name": "Verbal Reasoning",
+            "color": "primary",
+            "description": "It involves thinking about text, solving word problems, following written instructions to come up with a solution, spotting letter sequences and cracking letter- and number-based codes. Verbal reasoning exams are intended to test a child’s ability to understand and reason using words, and are a test of skill, rather than of learned knowledge."
+        },
+        {
+            "id": 4,
+            "name": "Quantitative Studies",
+            "color": "danger",
+            "description": "Quantitative Reasoning is the ability to use mathematics and information to solve real world problems. Learning about quantitative reasoning may also help in solving non-mathematical problems. For this lesson, the focus will be on translating real world problems into solvable mathematical problems. In 1945 George Polya published a book, How To Solve It. It quickly became his most prized publication. It sold over 1,000,000 copies and has been translated into 17 languages. In his book he identifies the four basic principles of quantitative reasoning in solving problems."
+        },
+        {
+            "id": 5,
+            "name": "Mathematics",
+            "color": "warning",
+            "description": "It is important for young learners to establish a solid foundation in math and science. In addition to the inherent pleasure students can find exploring these subjects and the self-confidence built by mastery, this essential academic preparation opens doors to financial literacy, critical thinking and healthy decision-making. Moreover, these skills correlate to the health of the nation’s economy, as it relies on a workforce proficient in math and science. With the long-standing reality that U.S. students lag far behind other countries in math and science, it is essential that schools address this disparity in early learning."
+        },
+        {
+            "id": 6,
+            "name": "Social Studies",
+            "color": "success",
+            "description": "Social studies that are taught in elementary schools involve making young children understand their family and community well. Social studies are the source of knowledge and understanding to the youngsters in the elementary schools."
+        }
+    ]
+}
